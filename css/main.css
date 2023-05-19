@@ -627,7 +627,7 @@ form {
 }
 .footer__nav a:hover {
 	color: #E30613;
-}
+} 
 .footer__right {
 	display: flex;
 	flex-direction: column;

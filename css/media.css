@@ -107,8 +107,8 @@
 	.footer__nav_big, 
 	.footer__title { 
 		font-size: 14px;
-		line-height: 29px;
-	}
+		line-height: 29px; 
+	} 
 	.footer-bottom {
 		margin-top: 40px;
 	}
