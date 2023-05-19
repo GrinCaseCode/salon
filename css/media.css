@@ -104,7 +104,8 @@
 	.footer__right {
 		margin-left: -15px;
 	}
-	.footer__nav_big, .footer__title {
+	.footer__nav_big, 
+	.footer__title {
 		font-size: 14px;
 		line-height: 29px;
 	}
