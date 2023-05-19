@@ -72,12 +72,13 @@ if ( $(this).scrollTop() > 0 && $menu.hasClass("default") ){
 		}
 	});
 
-	$(".menu__haschild > a").click(function() {
+	$(".menu__haschild > a").click(function(e) {
+		e.preventDefault();
 		if ($(".header-bottom").hasClass("header-bottom_mobile")) {
 			$(this).toggleClass("active");
 			$(this).siblings("ul").slideToggle(200);
 		} else {
-			
+
 		}
 	});
 
