@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'Europe C';
+    src: local('Europe C Extended C Bold'), local('Europe-C-Extended-C-Bold'),
+        url('EuropeExtendedC-Bold.woff2') format('woff2'),
+        url('EuropeExtendedC-Bold.woff') format('woff'),
+        url('EuropeExtendedC-Bold.ttf') format('truetype');
+    font-weight: 700;
+    font-style: normal;
+  }
